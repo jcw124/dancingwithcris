@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+}
+body{
+    background-image: url("../images/15590776_1191829814229741_8049395683543761668_o.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 400px 400px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 200%;
+    color: white;
+    text-align: center;
+}
+header{
+    color: blue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 100%
+}
